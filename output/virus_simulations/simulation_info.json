@@ -1,0 +1,17 @@
+{
+  "simulation": {
+    "name":"virus_simulations",
+    "result_dir":"output/virus_simulations"
+  },
+  "sim_objects": [
+    {
+      "name":"Cell",
+      "glyph":"Glyph",
+      "shape":"Sphere",
+      "scaling_attribute":"diameter_"
+    }
+  ],
+  "extracellular_substances": [
+
+  ]
+}
